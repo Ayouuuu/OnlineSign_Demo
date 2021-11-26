@@ -1,5 +1,5 @@
 # 网上打卡移动端
-一个基于 TailwindCSS、VantUI 开发的兼容移动端网上打开页面
+一个基于 TailwindCSS、VantUI 开发的兼容移动端网上打卡页面
 ## 技术栈
 - TailwindCSS
 - VantUI
@@ -9,3 +9,5 @@
 子组件通信`参考文件:src/assets/js/util.js` `App.vue`为主入口.
 ## 如何运行
 `dist/index.html`直接启动可以看见页面效果
+## 效果图片
+![img.png](images/img.png)
