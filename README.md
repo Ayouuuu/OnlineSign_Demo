@@ -10,4 +10,4 @@
 ## 如何运行
 `dist/index.html`直接启动可以看见页面效果
 ## 效果图片
-![img.png](images/img.png)
+![img.png](images/image.png)
