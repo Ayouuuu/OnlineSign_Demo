@@ -1,4 +1,4 @@
-# 网上打开移动端
+# 网上打卡移动端
 一个基于 TailwindCSS、VantUI 开发的兼容移动端网上打开页面
 ## 技术栈
 - TailwindCSS
