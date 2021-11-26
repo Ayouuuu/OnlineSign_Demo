@@ -1,0 +1,16 @@
+/*
+ * @Author Ayou
+ * @Date 2021/11/24 23:40
+*/
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .center {
+        @apply justify-center items-center;
+    }
+    .text-size{
+        @apply text-xl text-white md:text-5xl;
+    }
+}
